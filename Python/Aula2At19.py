@@ -3,7 +3,7 @@
 # • o valor, em reais, a ser pago por essa residência;
 # • o novo valor à ser pago por essa residência, se for dado um desconto de 15%.
 
-salario = 1.518
+salario = 1518
 QuantidadeKw = int(input("Digite quantos quilowatts foram utilizados esse mês: "))
 
 kw = salario * 0.02
